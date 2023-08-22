@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Object</name>
+   <tag></tag>
+   <elementGuidId>6fea0d63-8658-45e7-a270-027fc415c6ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>${value}</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>${value}</value>
+      <webElementGuid>2be257d1-4be2-428a-a3bb-484550769e8d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
